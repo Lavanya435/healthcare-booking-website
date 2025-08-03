@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Dr. John Doe",
-    "specialization": "Cardiologist",
+    "name": "Dr. John ",
+    "specialization": "Neurologist",
     "image": "/images/doctor1.jpg",
     "availability": "Available Today",
     "schedule": [
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "name": "Dr. Jane Smith",
+    "name": "Dr. Van Smith",
     "specialization": "Dermatologist",
     "image": "/images/doctor2.jpg",
     "availability": "Fully Booked",
@@ -24,16 +24,16 @@
   },
   {
     "id": 3,
-    "name": "Dr. Peter Jones",
-    "specialization": "Pediatrician",
+    "name": "Dr.  John San",
+    "specialization": "Cardiologist",
     "image": "/images/doctor3.jpg",
     "availability": "On Leave",
     "schedule": []
   },
   {
     "id": 4,
-    "name": "Dr. Emily Carter",
-    "specialization": "Neurologist",
+    "name": "Dr. Stalyn",
+    "specialization": "Pulmonologist",
     "image": "/images/doctor4.jpg",
     "availability": "Available Today",
     "schedule": [
@@ -54,8 +54,8 @@
   },
   {
     "id": 6,
-    "name": "Dr. Sarah Chen",
-    "specialization": "Endocrinologist",
+    "name": "Dr. Sara,
+    "specialization": "Orthopedic Surgeon",
     "image": "/images/doctor6.jpg",
     "availability": "Available Today",
     "schedule": [
