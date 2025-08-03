@@ -43,7 +43,7 @@
   },
   {
     "id": 5,
-    "name": "Dr. Michael Lee",
+    "name": "Dr. Ravi Patel",
     "specialization": "Orthopedic Surgeon",
     "image": "/images/doctor5.jpg",
     "availability": "Fully Booked",
@@ -54,7 +54,7 @@
   },
   {
     "id": 6,
-    "name": "Dr. Sara,
+    "name": "Dr.Sara,
     "specialization": "Orthopedic Surgeon",
     "image": "/images/doctor6.jpg",
     "availability": "Available Today",
